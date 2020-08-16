@@ -80,13 +80,11 @@ Serial.println("Setup done");
 
 void loop() {
 
-    //Serial.println("checking input pins");
     //TODO checks input pins state
     //
     //
 
     
-    //Serial.println("listening serial communication");
     //TODO listen to serial communication
     //
     //
@@ -125,14 +123,8 @@ void loop() {
 
 
     }
-    
 
-    //Serial.println("changing output pins state");
     //TODO change output pins state
     //
     //
-
-
-    //Serial.println("loop end");
-    //delay(100);
 }
