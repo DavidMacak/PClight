@@ -79,7 +79,6 @@ Serial.println("Setup done");
 }
 
 void loop() {
-    //Serial.println("loop start");
 
     //Serial.println("checking input pins");
     //TODO checks input pins state
