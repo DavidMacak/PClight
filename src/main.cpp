@@ -1,7 +1,9 @@
 /*
 PC light - controls input and output via serial communication and C# app
 For Arduino NANO
-more at https://www.davak.cz
+more at https://github.com/DavidMacak/PClight
+
+https://www.davak.cz 
 */
 
 #include <Arduino.h>
